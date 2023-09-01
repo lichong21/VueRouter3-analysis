@@ -1,0 +1,8 @@
+{
+  "name": "VueRouter3-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lichong21/VueRouter3-analysis.git",
+  "author": "lichong <lichong@tuyoogame.com>",
+  "license": "MIT"
+}
